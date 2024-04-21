@@ -1,0 +1,1 @@
+web: gunicorn poultry_backend.wsgi --log-file -
